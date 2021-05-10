@@ -7,3 +7,7 @@ In this project we explore methods and techniques to
 
 # Datasets used for this study can be found on Google Drive
 - https://drive.google.com/drive/u/0/folders/1gTHHsHqjd-H_U1d2vqzJ028iXbEuqvH-
+
+# Models trained on the datasets can be found on Google Drive
+- https://drive.google.com/drive/u/0/folders/1o2afHl2KewNJUwJpnYrJCJuQp6_qa6nK
+
